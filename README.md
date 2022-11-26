@@ -2,6 +2,8 @@
 
 * [langgo](https://github.com/langwan/langgo) - all of my projects are based on the langgo framework,  written in go
 
+![](https://github.com/langwan/langgo/blob/main/logo.png)
+
 * [chihuo](https://github.com/langwan/chihuo) - go code examples by chihuo, all tutorial videos [https://space.bilibili.com/401571418](https://space.bilibili.com/401571418)
 
 

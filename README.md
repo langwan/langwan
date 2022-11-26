@@ -5,7 +5,9 @@
 * [chihuo](https://github.com/langwan/chihuo) - go code examples by chihuo, all tutorial videos [https://space.bilibili.com/401571418](https://space.bilibili.com/401571418)
 
 
-* [chimp3-spectrum](https://github.com/langwan/chimp3) a cross-platform mp3 player, specturm, supports mac and windows, written in go, go-mp3, oto, ebiten, go-dsp
+* [chimp3-spectrum](https://github.com/langwan/chimp3-spectrum) a cross-platform mp3 player, specturm, supports mac and windows, written in go, go-mp3, oto, ebiten, go-dsp
+
+![](https://github.com/langwan/chimp3-spectrum/blob/main/images/a.png)
 
 * [chiplayer](https://github.com/langwan/chiplayer) local videos management app, cross-platform, written in go, react, electron
 

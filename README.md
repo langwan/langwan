@@ -12,7 +12,8 @@ lagnwan
 
 [![langgo](https://github.com/langwan/langgo/blob/main/logo.png)](https://github.com/langwan/langgo)
 
-* [chihuo](https://github.com/langwan/chihuo) - go code examples by chihuo, all tutorial videos [https://space.bilibili.com/401571418](https://space.bilibili.com/401571418)
+* [chihuo](https://github.com/langwan/chihuo) - go code examples by chihuo, all tutorial videos
+[![bilibili](https://img.shields.io/badge/bilibili-401571418-brightgreen?logo=Bilibili)](https://space.bilibili.com/401571418)
 
 * [chimp3-spectrum](https://github.com/langwan/chimp3-spectrum) a cross-platform mp3 player, specturm, supports mac and windows, written in go, go-mp3, oto, ebiten, go-dsp
 

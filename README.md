@@ -1,12 +1,9 @@
-<img src="./icon.jpg" width="48">
-
 lagnwan
 
-![langwanluo@126.com](https://img.shields.io/badge/email-langwanluo%40126.com-brightgreen?logo=Mail.Ru)
-
-[![bilibili](https://img.shields.io/badge/bilibili-401571418-brightgreen?logo=Bilibili)](https://space.bilibili.com/401571418)
-
-![shyuanfangbj](https://img.shields.io/badge/weixin-shyuanfangbj-brightgreen?logo=wechat)
+![](https://img.shields.io/badge/email-langwanluo%40126.com-brightgreen?logo=Mail.Ru)
+[![](https://img.shields.io/badge/bilibili-401571418-brightgreen?logo=Bilibili)](https://space.bilibili.com/401571418)
+![](https://img.shields.io/badge/weixin-shyuanfangbj-brightgreen?logo=wechat)
+![](https://img.shields.io/badge/weixin-langwanluo-brightgreen?logo=twitter)
 
 <hr />
 

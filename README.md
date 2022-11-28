@@ -1,11 +1,21 @@
-# projects
+<div style="display:flex;flex-direction:row;justify-content:flex-start">
+    <img src="./icon.jpg" width="128px" style="margin-right:8px" >
+    <div style="display:flex;flex-direction:column;justify-content:flex-start;">
+        <p>langwan</p>
+        <img style="padding:8px" src="https://img.shields.io/badge/email-langwanluo%40126.com-brightgreen?logo=Mail.Ru">
+         <a style="padding:8px" href="https://space.bilibili.com/401571418">
+            <img src="https://img.shields.io/badge/bilibili-401571418-brightgreen?logo=Bilibili">
+        </a>
+        <img style="padding:8px" src="https://img.shields.io/badge/weixin-shyuanfangbj-brightgreen?logo=wechat">
+    </div>
+</div>
 
-* [langgo](https://github.com/langwan/langgo) - all of my projects are based on the langgo framework,  written in go
+<hr />
+## projects
 
-![](https://github.com/langwan/langgo/blob/main/logo.png)
+[![langgo](https://github.com/langwan/langgo/blob/main/logo.png)](https://github.com/langwan/langgo)
 
 * [chihuo](https://github.com/langwan/chihuo) - go code examples by chihuo, all tutorial videos [https://space.bilibili.com/401571418](https://space.bilibili.com/401571418)
-
 
 * [chimp3-spectrum](https://github.com/langwan/chimp3-spectrum) a cross-platform mp3 player, specturm, supports mac and windows, written in go, go-mp3, oto, ebiten, go-dsp
 
@@ -36,11 +46,5 @@
 
 * [chilru](https://github.com/langwan/chilru) thread safe lru cache, written in go
 
-# concat
 
-email: langwanluo@126.com
-
-weixin: shyuanfangbj 加微信可入群
-
-phone: +86-18511160351
 

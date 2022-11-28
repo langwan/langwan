@@ -1,15 +1,12 @@
-<div style="display:flex;flex-direction:row;justify-content:flex-start">
-    <img src="./icon.jpg" width="128px" style="margin-right:8px" >
-    <div style="display:flex;flex-direction:column;justify-content:flex-start;">
-        <p>langwan</p>
-        <img style="padding:8px" src="https://img.shields.io/badge/email-langwanluo%40126.com-brightgreen?logo=Mail.Ru">
-         <a style="padding:8px" href="https://space.bilibili.com/401571418">
-            <img src="https://img.shields.io/badge/bilibili-401571418-brightgreen?logo=Bilibili">
-        </a>
-        <img style="padding:8px" src="https://img.shields.io/badge/weixin-shyuanfangbj-brightgreen?logo=wechat">
-    </div>
-</div>
+<img src="./icon.jpg" width="48">
 
+lagnwan
+
+![langwanluo@126.com](https://img.shields.io/badge/email-langwanluo%40126.com-brightgreen?logo=Mail.Ru)
+
+[![bilibili](https://img.shields.io/badge/bilibili-401571418-brightgreen?logo=Bilibili)](https://space.bilibili.com/401571418)
+
+![shyuanfangbj](https://img.shields.io/badge/weixin-shyuanfangbj-brightgreen?logo=wechat)
 <hr />
 ## projects
 

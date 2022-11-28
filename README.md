@@ -10,6 +10,8 @@ lagnwan
 
 <hr />
 
+* [langgo](https://github.com/langwan/langgo) - all of my projects are based on the langgo framework,  written in go
+
 [![langgo](https://github.com/langwan/langgo/blob/main/logo.png)](https://github.com/langwan/langgo)
 
 * [chihuo](https://github.com/langwan/chihuo) - go code examples by chihuo, all tutorial videos

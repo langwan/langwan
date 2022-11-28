@@ -7,8 +7,8 @@ lagnwan
 [![bilibili](https://img.shields.io/badge/bilibili-401571418-brightgreen?logo=Bilibili)](https://space.bilibili.com/401571418)
 
 ![shyuanfangbj](https://img.shields.io/badge/weixin-shyuanfangbj-brightgreen?logo=wechat)
+
 <hr />
-## projects
 
 [![langgo](https://github.com/langwan/langgo/blob/main/logo.png)](https://github.com/langwan/langgo)
 

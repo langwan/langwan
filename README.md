@@ -21,9 +21,9 @@ lagnwan
 
 * [chiplayer](https://github.com/langwan/chiplayer) local videos management app, cross-platform, written in go, react, electron
 
-<img src="https://github.com/langwan/chiplayer/blob/main/resources/img1.png" width="100%">
+![](https://github.com/langwan/chiplayer/blob/main/resources/img1.png)
 
-<img src="https://github.com/langwan/chiplayer/blob/main/resources/img2.png" width="100%">
+![](https://github.com/langwan/chiplayer/blob/main/resources/img2.png)
 
 * [go-jwt-hs256](https://github.com/langwan/go-jwt-hs256) simple jwt token, written in go, algorithm hs256
 
